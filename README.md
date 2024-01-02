@@ -1,6 +1,9 @@
 # ReadMe++: Multilingual Multi-domain Benchmark for Sentence Readability Assessment
 
-[Repo under construction, data will be released soon]
+README++ is a multilingual multi-domain dataset with human annotations of 9757 sentences in Arabic, English, French, Hindi, and Russian collected from 112 different data sources.
+
+The dataset is annotated for readability according to the CEFR framework (1-6 scale).
+
 
 For more details, see the accompanying paper: ["ReadMe++: Benchmarking Multilingual Language Models for Multi-Domain Readability Assessment"](https://arxiv.org/abs/2305.14463), **arxiv pre-print**, and please use the citation below.
 
