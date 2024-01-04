@@ -25,4 +25,4 @@ For more details, see the accompanying paper: ["ReadMe++: Benchmarking Multiling
 ## Contact
 **Tarek Naous**: [Scholar](https://scholar.google.com/citations?user=ImyLv44AAAAJ&hl=en) | [Github](https://github.com/tareknaous?tab=repositories) |
 [Linkedin](https://www.linkedin.com/in/tareknaous/) |  [Research Gate](https://www.researchgate.net/profile/Tarek_Naous?ev=hdr_xprf) | [Personal Wesbite](https://www.sites.google.com/view/tareknaous)
-| tareknaous@gmail.com
+| tareknaous@gatech.edu
