@@ -4,7 +4,7 @@ ReadMe++ is a multilingual multi-domain dataset with human annotations of 9757 s
 
 The dataset is annotated for readability according to the CEFR framework (1-6 scale) and is openly-accessible for personal, research, and non-commercial purposes.
 
-We also release a python package of our fine-tuned language models for readability prediction, see simple usage steps below!
+We also release a python package of ReadMe++ to easily use our fine-tuned language models for readability prediction, see simple usage steps below!
 
 ## Installation
 
