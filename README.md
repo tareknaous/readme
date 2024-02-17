@@ -14,13 +14,13 @@ pip install readmepp
 
 ## Usage
 
-First import the class ```ReadaBERT``` and create a BERT predictor instance of it.\
+First import the class ```ReadMe``` and create a BERT predictor instance of it.\
 The parameter ```lang``` is to specify language (we support "en", "ar", "fr", "ru", and "hi").
 
 ```python
-from readmepp import ReadaBERT
+from readmepp import ReadMe
 
-predictor = ReadaBERT(lang='en')
+predictor = ReadMe(lang='en')
 ```
 
 To assess the readability of a sentence, use the ```predict``` function of the model:
