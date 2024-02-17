@@ -62,7 +62,8 @@ For more details, see the accompanying paper: ["ReadMe++: Benchmarking Multiling
 | tareknaous@gatech.edu
 
 ## Dependencies
-The following library versions (or more recent) are required to run the readme package:
+The following are the versions of libraries used when the readme python package was developed:
+More recent versions would also work.
 
 ```
 transformers 4.35.2
