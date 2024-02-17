@@ -60,3 +60,11 @@ For more details, see the accompanying paper: ["ReadMe++: Benchmarking Multiling
 **Tarek Naous**: [Scholar](https://scholar.google.com/citations?user=ImyLv44AAAAJ&hl=en) | [Github](https://github.com/tareknaous?tab=repositories) |
 [Linkedin](https://www.linkedin.com/in/tareknaous/) |  [Research Gate](https://www.researchgate.net/profile/Tarek_Naous?ev=hdr_xprf) | [Personal Wesbite](https://www.sites.google.com/view/tareknaous)
 | tareknaous@gatech.edu
+
+## Dependencies
+The following library versions (or more recent) are required to run the readme package:
+
+```
+transformers 4.35.2
+torch 2.1.0+cu121
+```
