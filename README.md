@@ -4,6 +4,40 @@ ReadMe++ is a multilingual multi-domain dataset with human annotations of 9757 s
 
 The dataset is annotated for readability according to the CEFR framework (1-6 scale) and is openly-accessible for personal, research, and non-commercial purposes.
 
+We also release a python package of our fine-tuned language models for readability prediction, see simple usage steps below!
+
+## Installation
+
+```python
+pip install readmepp
+```
+
+## Usage
+
+First import the class ```ReadMe``` and create a BERT predictor instance of it.\
+The parameter ```lang``` is to specify language (we support "en", "ar", "fr", "ru", and "hi").
+
+```python
+from readmepp import ReadaBERT
+
+predictor = ReadaBERT(lang='en')
+```
+
+To assess the readability of a sentence, use the ```predict``` function of the model:
+
+```python
+sentence = 'Eukaryotes differ from prokaryotes in multiple ways, with unique biochemical pathways such as sterane synthesis.'
+
+prediction = predictor.predict(sentence)
+
+print(f"Predicted Readability Level: {prediction}")
+```
+
+Output:
+```
+Predicted Readability Level: 5
+```
+
 
 ## Citation
 For more details, see the accompanying paper: ["ReadMe++: Benchmarking Multilingual Language Models for Multi-Domain Readability Assessment"](https://arxiv.org/abs/2305.14463), **arxiv pre-print**, and please use the citation below.
