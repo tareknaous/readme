@@ -44,7 +44,7 @@ English: https://huggingface.co/tareknaous/readabert-en \
 Arabic: https://huggingface.co/tareknaous/readabert-ar \
 Hindi: https://huggingface.co/tareknaous/readabert-hi \
 French: https://huggingface.co/tareknaous/readabert-fr \
-Russian: https://huggingface.co/tareknaous/readabert-ru \
+Russian: https://huggingface.co/tareknaous/readabert-ru 
 
 ## Citation
 For more details, see the accompanying paper: ["ReadMe++: Benchmarking Multilingual Language Models for Multi-Domain Readability Assessment"](https://arxiv.org/abs/2305.14463), **arxiv pre-print**, and please use the citation below.
